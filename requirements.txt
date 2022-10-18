@@ -4,4 +4,4 @@ numpy
 pandas
 scipy
 statsmodels
-seaborne
+seaborn
